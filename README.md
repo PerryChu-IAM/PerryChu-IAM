@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1>Hi, I'm Perry, Aspiring IAM Analyst | Building hands-on projects with Azure, Entra ID & Okta. </a>☺</h1>
 
-<!--
-**PerryChu-IAM/PerryChu-IAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Identity and Access Management:</h2>
+<b>Microsoft Azure Entra ID</b>
 
-Here are some ideas to get you started:
+- <b>Creating User's in Entra ID</b>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   - [Executed user provisioning and identity management tasks inside our Microsoft Entra ID
+environment.]()
+
+- <b>Cloud Provisioning - P2 Licensing</b>
+
+  - [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.]()
+ 
+- <b>Role Assignments</b>
+
+  - [Assigned directory roles to enforce Role-Based Access Control (RBAC) within Entra ID and
+Least Privilege.]()
+
+- <b>Group Assignments</b>
+
+  - [Configured security groups and assigned groups to users to enforce access within Entra
+ID.]()
+
+- <b>Identity Lifecycle</b>
+
+  - [Executed full identity lifecycle actions including onboarding, access modifications, account
+disabling, and secure deprovisioning.]()
+
+- <b>Audit Logs</b>
+
+  - [Reviewed and interpreted identity activity by way of audit logs to understand access visibility
+and security tracking within Entra ID.]()
+
+- <b>Sign-In Logs</b>
+
+  - [Reviewed and interpreted identity activity by way of sign-in logs to understand access
+visibility and security tracking within Entra ID.]()
+
+- <b>Authentication</b>
+
+  - [Demonstrated authentication methods assigned to user identities such as MFA.]()
+
+- <b>Authentication</b>
+
+  - [Demonstrated authentication methods assigned to user identities such as MFA.]()
