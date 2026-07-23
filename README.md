@@ -41,6 +41,6 @@ visibility and security tracking within Entra ID.]()
 
   - [Demonstrated authentication methods assigned to user identities such as MFA.]()
 
-- <b>Authentication</b>
+
 
   - [Demonstrated authentication methods assigned to user identities such as MFA.]()
