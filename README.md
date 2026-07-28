@@ -10,7 +10,7 @@ environment.](https://github.com/PerryChu-IAM/user-accounts)
 
 - <b>Cloud Provisioning - P2 Licensing</b>
 
-  - [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.]()
+  - [Simulated cloud-based user provisioning by assigning licenses to users within Entra ID.](https://github.com/PerryChu-IAM/P2-Licensing/blob/main/README.md)
  
 - <b>Role Assignments</b>
 
