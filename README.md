@@ -39,7 +39,7 @@ visibility and security tracking within Entra ID.](https://github.com/PerryChu-I
 
 - <b>Authentication</b>
 
-  - [Demonstrated authentication methods assigned to user identities such as MFA.]()
+  - [Demonstrated authentication methods assigned to user identities such as MFA.](https://github.com/PerryChu-IAM/authentication/blob/main/README.md)
 
 
 
