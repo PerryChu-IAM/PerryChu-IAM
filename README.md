@@ -35,7 +35,7 @@ and security tracking within Entra ID.](https://github.com/PerryChu-IAM/audit-lo
 - <b>Sign-In Logs</b>
 
   - [Reviewed and interpreted identity activity by way of sign-in logs to understand access
-visibility and security tracking within Entra ID.]()
+visibility and security tracking within Entra ID.](https://github.com/PerryChu-IAM/sign-in-logs)
 
 - <b>Authentication</b>
 
