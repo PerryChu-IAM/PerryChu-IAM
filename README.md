@@ -25,7 +25,7 @@ ID.](https://github.com/PerryChu-IAM/group-assign/blob/main/README.md)
 - <b>Identity Lifecycle</b>
 
   - [Executed full identity lifecycle actions including onboarding, access modifications, account
-disabling, and secure deprovisioning.]()
+disabling, and secure deprovisioning.](https://github.com/PerryChu-IAM/identity-lifecycle/blob/main/README.md)
 
 - <b>Audit Logs</b>
 
