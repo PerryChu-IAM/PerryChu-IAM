@@ -15,7 +15,7 @@ environment.](https://github.com/PerryChu-IAM/user-accounts)
 - <b>Role Assignments</b>
 
   - [Assigned directory roles to enforce Role-Based Access Control (RBAC) within Entra ID and
-Least Privilege.]()
+Least Privilege.](https://github.com/PerryChu-IAM/role-assignments-repository)
 
 - <b>Group Assignments</b>
 
