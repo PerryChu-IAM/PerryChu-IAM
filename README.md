@@ -20,7 +20,7 @@ Least Privilege.](https://github.com/PerryChu-IAM/role-assignments-repository)
 - <b>Group Assignments</b>
 
   - [Configured security groups and assigned groups to users to enforce access within Entra
-ID.]()
+ID.](https://github.com/PerryChu-IAM/group-assign/blob/main/README.md)
 
 - <b>Identity Lifecycle</b>
 
