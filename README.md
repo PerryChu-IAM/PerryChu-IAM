@@ -30,7 +30,7 @@ disabling, and secure deprovisioning.](https://github.com/PerryChu-IAM/identity-
 - <b>Audit Logs</b>
 
   - [Reviewed and interpreted identity activity by way of audit logs to understand access visibility
-and security tracking within Entra ID.]()
+and security tracking within Entra ID.](https://github.com/PerryChu-IAM/audit-logs/blob/main/README.md)
 
 - <b>Sign-In Logs</b>
 
